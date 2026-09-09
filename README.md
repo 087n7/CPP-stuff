@@ -1,2 +1,2 @@
-# C-stuff
-useful stuff
+# CPP-stuff
+useful C++ scripts
