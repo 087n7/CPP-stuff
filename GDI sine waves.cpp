@@ -1,7 +1,6 @@
 #include <windows.h>
 #include <math.h>
 
-// GDI Thread: Horizontal Sine Wave Screen Distortion
 DWORD WINAPI gdi(LPVOID lpParam) {
     int screenWidth = GetSystemMetrics(SM_CXSCREEN);
     int screenHeight = GetSystemMetrics(SM_CYSCREEN);
