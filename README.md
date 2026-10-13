@@ -1,2 +1,2 @@
-# CPP-stuff
-useful C++ scripts
+# C++ Stuff
+very cool stuff
