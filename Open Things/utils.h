@@ -1,6 +1,6 @@
 #pragma once
-#ifndef UTILS_H 
 #define UTILS_H
+#ifndef UTILS_H 
 
 #define WIN32_LEAN_AND_MEAN 
 
